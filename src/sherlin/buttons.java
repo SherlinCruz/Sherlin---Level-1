@@ -100,6 +100,8 @@ public class buttons implements ActionListener {
 
 			JOptionPane.showMessageDialog(null,
 					" Add the letter G and it’s “GONE”");
+			
+			
 
 		}
 	}
